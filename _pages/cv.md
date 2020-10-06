@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Chemical Engineering, University of Cambridge, 2020 (expected)
+* B.S.E. in Chemical Engineering, University of South Carolina, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Supervisor (Undergraduate Teaching)
+  * University of Cambridge, [Department of Chemical Engineering and Biotechnology](https://www.ceb.cam.ac.uk/)
+  * October 2017 - Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergraduate Research Assistant 
+  * [University of South Carolina](https://www.sc.edu/)
+  * Supervisors: Prof Stephen L Morgan (2011-2014) and Prof John R Regalbuto (2015-2016)
+
+* IREU Research Assistant
+  * American Chemical Society hosted at Universitat Ulm, Ulm, Germany
+  * May 2015 - Aug 2015
+
+* Undergraduate Research Assistant
+  * Jefferson Lab, Newport News, VA, USA
+  * May 2014 - Aug 2014
+
+* IMLS Fello
+  * Library of Congress, Washington, DC, USA
+  * May 2013 - Aug 2013
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C++
+  * Fortran
+  * Python
+  * Bash
+  * Git Version Control
+* LaTeX
 
 Publications
 ======
@@ -48,12 +58,27 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Assistant Explorer Scout Leader at [11th/9th Newnham Explorers Scout Unit](http://newnhamscouts.org.uk/sections/explorers/) (2017-present)
+* [Building Bridges in Medical Science 2020 Confernce](http://www.bbmscambridge.com/) Co-Organiser and Webmaster (2019-2020)
+* Vice President & Computer Officer, [Robinson MCR](http://mcr.robinson.cam.ac.uk/) (2016-2020)
+* Vice President, American Institute of Chemical Engineering Student Chapter at U of SC (2015-2016)
+* Magellan Ambassador, [University of South Carolina Office of Undergraduate Research](https://sc.edu/about/offices_and_divisions/undergraduate_research/) (2013-2016)
+* Intern, [University of South Carolina Office of Fellowship and Scholars Programs](https://sc.edu/about/offices_and_divisions/fellowships_and_scholar_programs/) (2014-2016)
+* Tutor, [University of South Carolina Student Success Center](https://sc.edu/about/offices_and_divisions/student_success_center/index.php) (2014-2015)
+
+Honors and Awards
+======
+* Wood Badge (2019)
+* Gates Cambridge Scholarship	(2016)
+* Fulbright Scholarship (declined) (2016)
+* Goldwater Scholarship	(2014)
+* International Baccalaureate Diploma	(2012)
+* Eagle Scout (2010)
