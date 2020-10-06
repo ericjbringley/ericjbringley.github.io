@@ -16,25 +16,26 @@ Education
 
 Work experience
 ======
-* Supervisor (Undergraduate Teaching)
+* [Graduate Research Assistant](https://como.ceb.cam.ac.uk/people/eb656/) (Oct 2016 - Present)
   * University of Cambridge, [Department of Chemical Engineering and Biotechnology](https://www.ceb.cam.ac.uk/)
-  * October 2017 - Present
+  * Supervisor: [Prof Markus Kraft](https://como.ceb.cam.ac.uk/people/mk306/)
+  * Studies the use of laminar flames for the synthesis of inorganic materials through multiphase modelling. Funding provided by the [Gates Foundation](https://www.gatescambridge.org/) as part of the [Gates Cambridge Scholarship (2016)](https://www.gatescambridge.org/biography/8992/)
+
+* Supervisor (Undergraduate Teaching) (Oct 2017 - Present)
+  * University of Cambridge, [Department of Chemical Engineering and Biotechnology](https://www.ceb.cam.ac.uk/)
 
 * Undergraduate Research Assistant 
   * [University of South Carolina](https://www.sc.edu/)
   * Supervisors: Prof Stephen L Morgan (2011-2014) and Prof John R Regalbuto (2015-2016)
 
-* IREU Research Assistant
+* IREU Research Assistant (May 2015 - Aug 2015)
   * American Chemical Society hosted at Universitat Ulm, Ulm, Germany
-  * May 2015 - Aug 2015
 
-* Undergraduate Research Assistant
+* Undergraduate Research Assistant (May 2014 - Aug 2014)
   * Jefferson Lab, Newport News, VA, USA
-  * May 2014 - Aug 2014
 
-* IMLS Fello
+* IMLS Fellow (May 2013 - Aug 2013)
   * Library of Congress, Washington, DC, USA
-  * May 2013 - Aug 2013
   
 Skills
 ======
