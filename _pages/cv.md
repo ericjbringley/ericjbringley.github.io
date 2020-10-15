@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemical Engineering, University of Cambridge, 2020 (expected)
+* Ph.D in Chemical Engineering, University of Cambridge, 2021 (expected)
 * B.S.E. in Chemical Engineering, University of South Carolina, 2016
 
 Work experience
