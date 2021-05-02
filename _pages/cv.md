@@ -77,9 +77,9 @@ Service and leadership
 
 Honors and Awards
 ======
-* Wood Badge (2019)
-* Gates Cambridge Scholarship	(2016)
+* [Wood Badge](https://www.scouts.org.uk/volunteers/learning-development-and-awards/awards-and-recognition/wood-badge/) (2019)
+* [Gates Cambridge Scholarship](https://www.gatescambridge.org/biography/8992/)	(2016)
 * Fulbright Scholarship (declined) (2016)
-* Goldwater Scholarship	(2014)
+* [Goldwater Scholarship](https://goldwater.scholarsapply.org/2014-scholars/)	(2014)
 * International Baccalaureate Diploma	(2012)
 * Eagle Scout (2010)
