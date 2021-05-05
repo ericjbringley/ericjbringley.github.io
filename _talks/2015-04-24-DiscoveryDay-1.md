@@ -1,5 +1,5 @@
 ---
-title: “Catalysis Synthesis of Ruthenium Hexaamine on Silica by Strong Electrostatic Adsorption at High Surface Loadings”
+title: "Catalysis Synthesis of Ruthenium Hexaamine on Silica by Strong Electrostatic Adsorption at High Surface Loadings"
 collection: talks
 type: "Oral presentation"
 permalink: /talks/2015-04-24-DiscoveryDay-1
