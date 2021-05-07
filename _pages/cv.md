@@ -12,7 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Chemical Engineering, University of Cambridge, 2021 (expected)
+Funded by [Gates Cambridge Scholarship](https://www.gatescambridge.org/biography/8992/).
+
 * B.S.E. in Chemical Engineering, University of South Carolina, 2016
+GRE: 170/170 Math (99th percentile), 159/170 English
 
 Work experience
 ======
@@ -39,13 +42,10 @@ Work experience
   
 Skills
 ======
-* Programming
-  * C++
-  * Fortran
-  * Python
-  * Bash
-  * Git Version Control
-* LaTeX
+* Programming: Working knowledge of C++, Fortran, Python, Bash, Object Oriented Programming, High Performance Computing, Version Control (Git), Software verification. Basic exposure to JavaScript, C#, SQL, PHP, GDB
+ * Software: Microsoft Office, LaTeX, Inkscape, GIMP, OpenFOAM, Star-CCM+
+ * Operating systems: Windows, Linux, Unix
+ * Language: English (native), Mandarin Chinese (beginner)
 
 Publications
 ======
